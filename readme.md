@@ -28,15 +28,21 @@ https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_1.png
         )
 \
     Sheet2:\
-        ![img_2.png](img_2.png)
+        ![img_2.png](
+        https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_2.png
+        )
 \
     Output:
 \
         Consolidate sheet:
-        ![img_3.png](img_3.png)\
+        ![img_3.png](
+        https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_3.png
+        )
 \
         Transposed Consolidated sheet:
 \
-        ![img_4.png](img_4.png)\
+        ![img_4.png](
+        https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_4.png
+        )\
 \
 In next release will try to incorporate some database connection to load the consolidated data into DB.
