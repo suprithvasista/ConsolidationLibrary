@@ -20,16 +20,23 @@ There are some basic rules need to be followed while configuring the property fi
 Example:
     from Consoldation_utility import consolidateData\
     consolidateData("/Users/username/Downloads/Xlsx_testing/test.xlsx",
-                "Sheet 3",2,"Names","",3,"2,0,1","/Users/username/Downloads/Xlsx_testing/consolidated_testing.xlsx")\
+                "Sheet 3",2,"Names","",3,"2,0,1","/Users/username/Downloads/Xlsx_testing/consolidated_testing.xlsx")
 \
     Sheet1:\
-        ![img_1.png](img_1.png)\
+        ![img_1.png](
+https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_1.png
+        )
+\
     Sheet2:\
-        ![img_2.png](img_2.png)\
-    Output:\
-        Consolidate sheet:\
+        ![img_2.png](img_2.png)
+\
+    Output:
+\
+        Consolidate sheet:
         ![img_3.png](img_3.png)\
-        Transposed Consolidated sheet:\
+\
+        Transposed Consolidated sheet:
+\
         ![img_4.png](img_4.png)\
 \
 In next release will try to incorporate some database connection to load the consolidated data into DB.
