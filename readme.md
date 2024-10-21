@@ -32,14 +32,14 @@ https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_1.png
         https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_2.png
         )
 \
-    Output:
-\
+    Output:\
         Consolidate sheet:
+\
         ![img_3.png](
         https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_3.png
         )
 \
-        Transposed Consolidated sheet:
+        Transposed sheet:
 \
         ![img_4.png](
         https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_4.png
