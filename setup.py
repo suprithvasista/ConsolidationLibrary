@@ -3,7 +3,7 @@ with open ("readme.md", "r") as f:
     description = f.read()
 setup(
     name='Pandas-Consolidated-Loader',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     install_requires=['pandas','xlsxwriter','openpyxl','configparser'],
     long_description=description,

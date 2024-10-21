@@ -24,25 +24,25 @@ Example:
 \
     Sheet1:\
         ![img_1.png](
-https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_1.png
+https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_1.png?raw=true
         )
 \
     Sheet2:\
         ![img_2.png](
-        https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_2.png
+        https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_2.png?raw=true
         )
 \
     Output:\
         Consolidate sheet:
 \
         ![img_3.png](
-        https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_3.png
+        https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_3.png?raw=true
         )
 \
         Transposed sheet:
 \
         ![img_4.png](
-        https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_4.png
+        https://github.com/suprithvasista/ConsolidationLibrary/blob/main/img_4.png?raw=true
         )\
 \
 In next release will try to incorporate some database connection to load the consolidated data into DB.
